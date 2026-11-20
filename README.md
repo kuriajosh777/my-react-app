@@ -63,5 +63,5 @@ The mock-up link could not be opened while building this, so the layout follows 
 
 ## Screenshots
 
-!PortfolioUI.png
 
+![Portfolio](PortfolioUI.png)
