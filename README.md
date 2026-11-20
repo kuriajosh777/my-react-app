@@ -14,6 +14,8 @@ A single page application built with React and Vite. It shows a creative agency'
 ## Run it
 
 ```bash
+Clone the repository
+git clone https://github.com/kuriajosh777/my-react-app.git
 npm install
 npm run dev      # start the dev server
 npm test         # run the tests
@@ -61,4 +63,5 @@ The mock-up link could not be opened while building this, so the layout follows 
 
 ## Screenshots
 
-Add screenshots of the landing page, the search results and the form here.
+!(PortfolioUI.png)
+
